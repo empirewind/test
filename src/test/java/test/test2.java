@@ -13,7 +13,7 @@ import java.util.Set;
 public class test2 {
 
 	/**
-	 * @param args
+	 * @param args 
 	 */
 	public static void main(String[] args) {
 		Set<Integer> bigSet = new HashSet<Integer>();
